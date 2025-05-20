@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Veven</h1>
-<h3 align="center">A Lecturer </h3>
+<h3 align="center">A Learner & Lecturer </h3>
 
 - 🌱 I’m currently learning **Microcontroller for IoT and Many More**
 
