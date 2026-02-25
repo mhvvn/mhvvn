@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/mhvvn" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhvvn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/skinnyboys__" target="blank">
+  <a href="https://instagram.com/muhveven" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhvvn" height="30" width="40" />
   </a>
   <a href="https://medium.com/@skinnyboys" target="blank">
