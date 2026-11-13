@@ -93,13 +93,13 @@ Kalau suatu saat masih broken:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/muhveven" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram"/>
 </a>
 <a href="mailto:contact@muhveven.com">
-  <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square" alt="Email"/>
 </a>
 <a href="https://www.muhveven.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square" alt="Portfolio"/>
 </a>
 
 </div>
