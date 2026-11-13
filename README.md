@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;a+Lecturer+and;Long+Life+Learner" alt="Typing SVG"/>
 </picture>
 
-<sub>Membangun hal-hal mulai dari yg terkecil dengan rapi, satu commit setiap hari.</sub>
+<sub>Building things, starting from the smallest, neatly — one commit every day.</sub>
 
 </div>
 
@@ -24,9 +24,9 @@
 
 ### 🧭 About
 
-- 🔭 Sedang mengerjakan **mini Private LMS**
-- 🌱 Sedang mendalami **IoT and Web**
-- 📫 Hubungi via **contact@muhveven.com**
+- 🔭 Currently working on **mini Private LMS**
+- 🌱 Currently learning **IoT and Web**
+- 📫 Reach me at **contact@muhveven.com**
 
 </td>
 <td valign="top" width="50%">
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
-<!-- Urutan & slug logo mengikuti simpleicons.org, otomatis pakai versi logo resmi terbaru tiap brand -->
+<!-- Order and logo slugs follow simpleicons.org, so each brand uses its latest official logo -->
 
 </td>
 </tr>
@@ -73,12 +73,12 @@
 </picture>
 
 <!--
-Kartu "GitHub Stats" / "Top Languages" di atas pakai github-stats-extended.vercel.app
-(penerus github-readme-stats yang masih aktif dikembangkan, URL formatnya sama persis, biasanya lebih stabil).
-Kalau suatu saat masih broken:
-1. Refresh halaman profil GitHub beberapa saat lagi (biasanya pulih sendiri kalau server lagi sibuk)
-2. Buka salah satu link <img src="..."> di atas langsung di tab browser baru — kalau muncul error, berarti servernya yang bermasalah, bukan kode README ini
-3. Solusi permanen: deploy instance sendiri gratis di Vercel (fork repo stats-organization/github-stats-extended), lalu ganti domain di URL atas dengan domain Vercel kamu sendiri
+The "GitHub Stats" / "Top Languages" cards above use github-stats-extended.vercel.app
+(an actively maintained successor of github-readme-stats, same URL format, usually more stable).
+If they ever show up broken:
+1. Refresh your GitHub profile after a few moments (it usually recovers once the server is less busy)
+2. Open one of the <img src="..."> links above directly in a new browser tab — if it errors, the server is the problem, not this README
+3. Permanent fix: deploy your own free instance on Vercel (fork stats-organization/github-stats-extended), then replace the domain in the URLs above with your own Vercel domain
 -->
 
 </div>
