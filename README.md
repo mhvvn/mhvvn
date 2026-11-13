@@ -90,7 +90,7 @@ Kalau suatu saat masih broken:
 ### 🔗 Terhubung
 
 <a href="https://linkedin.com/in/mhvvn" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/muhveven" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
