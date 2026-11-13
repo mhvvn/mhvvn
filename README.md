@@ -96,7 +96,7 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 <a href="mailto:contact@muhveven.com">
   <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
-<a href="https:/muhveven.com" target="_blank">
+<a href="https://www.muhveven.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=ffffff"/>
 </a>
 
