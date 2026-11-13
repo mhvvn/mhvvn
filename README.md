@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:2B2B2B&height=140&section=header" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:2B2B2B&height=140&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,100:E0E0E0&height=140&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,100:E0E0E0&height=140&section=header" width="100%"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;Software+Developer;Problem+Solver" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F5F5F5&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;Software+Developer;Problem+Solver">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;Software+Developer;Problem+Solver">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;Software+Developer;Problem+Solver" alt="Typing SVG"/>
+</picture>
 
 <sub>Membangun hal-hal kecil dengan rapi, satu commit pada satu waktu.</sub>
 
@@ -45,10 +53,22 @@
 
 ### 📊 Statistik
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&count_private=true" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=default&bg_color=ffffff&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=default&bg_color=ffffff&hide_border=true" height="165"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhvvn&theme=tokyonight&background=0D1117&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhvvn&theme=tokyonight&background=0D1117&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhvvn&theme=default&background=ffffff&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhvvn&theme=default&background=ffffff&hide_border=true" height="165"/>
+</picture>
 
 <!--
 Kalau tetap tidak muncul, cek dua hal ini:
@@ -82,4 +102,8 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:0F0F0F&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:0F0F0F&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0E0E0,100:F5F5F5&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E0E0,100:F5F5F5&height=100&section=footer" width="100%"/>
+</picture>
