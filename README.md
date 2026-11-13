@@ -1,55 +1,69 @@
-<h1 align="center">Hi 👋, I'm Muhammad Veven</h1>
-<h3 align="center">A Learner & Lecturer </h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Microcontroller for IoT and Many More**
+# Halo, saya mhvvn 👋
 
-- 📫 How to reach me: [mail](mailto:contact@muhveven.com) 
+<em>Software Developer · Problem Solver · Lifelong Learner</em>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+<br>
+
+### 🧭 Tentang Saya
+
+- 🔭 Saat ini sedang mengerjakan **[nama project]**
+- 🌱 Sedang mendalami **[skill/teknologi yang dipelajari]**
+- 💬 Bisa diajak diskusi soal **[topik keahlian kamu]**
+- 📫 Cara menghubungi saya: **[email / kontak]**
+
+<br>
+
+### 🛠️ Tech Stack
+
 <p align="left">
-  <a href="https://linkedin.com/in/mhvvn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhvvn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/muhveven" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhvvn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@skinnyboys" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skinnyboys" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- 
+Ganti baris di atas sesuai tech stack kamu.
+Cari badge lain di: https://simpleicons.org atau https://shields.io
+Format: https://img.shields.io/badge/-NAMA-WARNAHEX?style=flat-square&logo=NAMA_LOGO&logoColor=WARNA
+-->
+
+<br>
+
+### 📊 GitHub Stats
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.learn-c.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-    <a href="https://www.arduini.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/arduino.svg" alt="arduino" width="40" height="40" />
-  </a>
-<a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</a>
-
-<a href="https://dotnet.microsoft.com/id-id/apps/aspnet/web-apps" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/> </a>
-</a>
-
-<p align="center">
-<a href="https://github.com/mhvvn">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhvvn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhvvn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://buymeacoffee.com/mhvvn">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farhanr" />
+
+<br>
+
+### 🔗 Terhubung dengan Saya
+
+<p align="left">
+  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/username-kamu" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:email-kamu@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-kamu.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+<br>
+
+<div align="center">
+  <sub>Terima kasih sudah mampir 🙌</sub>
+</div>
