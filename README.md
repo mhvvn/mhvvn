@@ -88,7 +88,7 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 ### 🔗 Terhubung
 
 <a href="https://linkedin.com/in/mhvvn" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/muhveven" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
@@ -97,7 +97,7 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
   <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 <a href="https://www.muhveven.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square"/>
 </a>
 
 </div>
