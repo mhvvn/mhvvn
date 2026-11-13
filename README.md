@@ -22,7 +22,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🧭 Tentang
+### 🧭 About
 
 - 🔭 Sedang mengerjakan **mini Private LMS**
 - 🌱 Sedang mendalami **IoT and Web**
@@ -31,7 +31,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 🛠️ Stack
+
 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C"/>
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-### 📊 Statistik
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=mhvvn&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true">
@@ -87,7 +87,6 @@ Kalau suatu saat masih broken:
 
 <div align="center">
 
-### 🔗 Terhubung
 
 <a href="https://linkedin.com/in/mhvvn" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/>
