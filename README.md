@@ -24,7 +24,7 @@
 
 ### 🧭 Tentang
 
-- 🔭 Sedang mengerjakan **mini Private LMS **
+- 🔭 Sedang mengerjakan **mini Private LMS**
 - 🌱 Sedang mendalami **IoT and Web**
 - 📫 Hubungi via **contact@muhveven.com**
 
@@ -34,12 +34,16 @@
 ### 🛠️ Stack
 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=9B4F96"/>
+<img src="https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=00878F"/>
+<img src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=E7352C"/>
 <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
-<!-- Ganti sesuai stack kamu — cari logo di simpleicons.org -->
+<!-- Urutan & slug logo mengikuti simpleicons.org, otomatis pakai versi logo resmi terbaru tiap brand -->
 
 </td>
 </tr>
@@ -89,11 +93,11 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 <a href="https://instagram.com/username-kamu" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
 </a>
-<a href="mailto:email-kamu@example.com">
-  <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=D14836"/>
+<a href="mailto:contact@muhveven.com">
+  <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 <a href="https://portfolio-kamu.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=ffffff"/>
 </a>
 
 </div>
