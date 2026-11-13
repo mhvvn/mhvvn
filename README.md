@@ -7,7 +7,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F5F5F5&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;Software+Developer;Problem+Solver">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F5F5F5&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;a Lecturer+ and ;Long Life+Learner">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn; a Lecturer+ and ;Long Life+Learner">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;a Lecturer+ and ;Long Life+Learner" alt="Typing SVG"/>
 </picture>
