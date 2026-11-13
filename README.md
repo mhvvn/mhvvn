@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2B2B2B&center=true&vCenter=true&width=460&lines=Halo%2C+saya+mhvvn;a+Lecturer+and;Long+Life+Learner" alt="Typing SVG"/>
 </picture>
 
-<sub>Membangun hal-hal kecil dengan rapi, satu commit pada satu waktu.</sub>
+<sub>Membangun hal-hal mulai dari yg terkecil dengan rapi, satu commit setiap hari.</sub>
 
 </div>
 
@@ -90,7 +90,7 @@ Kalau suatu saat masih broken:
 ### 🔗 Terhubung
 
 <a href="https://linkedin.com/in/mhvvn" target="_blank">
-  <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/muhveven" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
