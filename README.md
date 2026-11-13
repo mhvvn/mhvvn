@@ -99,7 +99,7 @@ Kalau suatu saat masih broken:
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square" alt="Email"/>
 </a>
 <a href="https://www.muhveven.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-ebc310?style=flat-square" alt="Portfolio"/>
 </a>
 
 </div>
