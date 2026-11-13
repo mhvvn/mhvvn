@@ -88,7 +88,7 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 ### 🔗 Terhubung
 
 <a href="https://linkedin.com/in/mhvvn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/muhveven" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
