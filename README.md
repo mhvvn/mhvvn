@@ -33,11 +33,10 @@
 
 ### 🛠️ Stack
 
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032"/>
 
 <!-- Ganti sesuai stack kamu — cari logo di simpleicons.org -->
