@@ -24,10 +24,9 @@
 
 ### 🧭 Tentang
 
-- 🔭 Sedang mengerjakan **[nama project]**
-- 🌱 Sedang mendalami **[skill/teknologi]**
-- 💬 Diskusi seru soal **[topik keahlian]**
-- 📫 Hubungi via **[email/kontak]**
+- 🔭 Sedang mengerjakan **mini Private LMS **
+- 🌱 Sedang mendalami **IoT and Web**
+- 📫 Hubungi via **contact@muhveven.com**
 
 </td>
 <td valign="top" width="50%">
