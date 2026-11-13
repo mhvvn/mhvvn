@@ -57,13 +57,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&count_private=true" height="165"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=default&bg_color=ffffff&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhvvn&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" height="165" alt="GitHub Stats"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=default&bg_color=ffffff&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=default&bg_color=ffffff&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhvvn&layout=compact&theme=default&bg_color=ffffff&hide_border=true" height="165" alt="Top Languages"/>
 </picture>
 
 <picture>
@@ -73,10 +73,12 @@
 </picture>
 
 <!--
-Kalau tetap tidak muncul, cek dua hal ini:
-1. Repo "mhvvn/mhvvn" harus PUBLIC (bukan private)
-2. Ganti "mhvvn" di URL atas dengan username GitHub kamu yang sebenarnya
-Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti ketahuan sebabnya.
+Kalau kartu "GitHub Stats" / "Top Languages" masih broken:
+Server gratis github-readme-stats.vercel.app memang sering down/kena rate-limit karena dipakai banyak orang sekaligus.
+Ini BUKAN kesalahan di kode README, jadi coba salah satu dari ini:
+1. Refresh halaman profil GitHub kamu beberapa saat lagi (biasanya pulih sendiri)
+2. Buka salah satu link <img src="..."> di atas langsung di browser baru — kalau muncul tulisan error/503, berarti server mereka sedang bermasalah
+3. Kalau sering terjadi, deploy instance sendiri secara gratis di Vercel (fork repo anuraghazra/github-readme-stats), lalu ganti domain "github-readme-stats.vercel.app" di URL atas dengan domain Vercel kamu sendiri
 -->
 
 </div>
@@ -88,7 +90,7 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 ### 🔗 Terhubung
 
 <a href="https://linkedin.com/in/mhvvn" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/muhveven" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
