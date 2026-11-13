@@ -87,16 +87,16 @@ Tes manual: buka salah satu link <img src="..."> di browser, kalau error pasti k
 
 ### 🔗 Terhubung
 
-<a href="https://linkedin.com/in/username-kamu" target="_blank">
+<a href="https://linkedin.com/in/mhvvn" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
-<a href="https://instagram.com/username-kamu" target="_blank">
+<a href="https://instagram.com/muhveven" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
 </a>
 <a href="mailto:contact@muhveven.com">
   <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
-<a href="https://portfolio-kamu.com" target="_blank">
+<a href="https:/muhveven.com" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=ffffff"/>
 </a>
 
